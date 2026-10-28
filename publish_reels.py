@@ -31,16 +31,28 @@ posts what comes due. Instagram's own limit is about 50 posts a day.
 Before posting, it reads your recent posts and skips anything already up, so a
 reel can never go out twice.
 
-Instagram only gives trial reels to some accounts (about 1,000 followers and
-up). On an account without them it takes a "trial" and puts it on the main
-feed with no error. So before any trial this checks your follower count and
-HOLDS every trial while you are under 1,000, and after each trial it asks
-Instagram where the reel landed. One that landed on the main feed stops every
-trial that has not gone out. Nothing reaches your main feed by accident twice.
+Instagram gives trial reels to professional accounts with 200 followers or
+more. The account must also be public and allowed to be recommended (Instagram
+app: Settings, Account status). On an account without them Instagram takes a
+"trial" and puts it on the main feed with no error. So before any trial this
+checks your follower count and HOLDS every trial while you are under 200. After
+each trial it asks Instagram where the reel landed. One that landed on the main
+feed stops every trial that has not gone out. Nothing reaches your main feed by
+accident twice.
+
+Each reel goes to Instagram as a link to its video in this repo's Releases, the
+same way Ryan's own trials go out. Instagram fetches the video from that link,
+so this repo has to stay public. (Before 10/27/26 the poster sent the file
+another way, and Instagram put those trials on the main feed.)
+
+A post more than a day past its time is skipped, never sent. A hold or a paused
+timer can leave posts waiting for days, and old news all at once looks like
+spam.
 
 Needs FB_PAGE_TOKEN and IG_USER_ID (repository secrets the setup stored) and
 GH_TOKEN (GitHub provides it to the timer).
 """
+import calendar
 import json
 import os
 import re
@@ -52,13 +64,14 @@ import urllib.parse
 import urllib.request
 
 GRAPH = "https://graph.facebook.com/v25.0"
-RUPLOAD = "https://rupload.facebook.com/ig-api-upload/v25.0"
 HERE = os.path.dirname(os.path.abspath(__file__))
 QUEUE = os.path.join(HERE, "reels.json")
 TOKEN = (os.environ.get("FB_PAGE_TOKEN") or "").strip()
 IG_USER = (os.environ.get("IG_USER_ID") or "").strip()
 REPO = os.environ.get("GITHUB_REPOSITORY", "")
-TRIAL_FOLLOWERS = 1000      # Instagram's rough floor for trial reels
+TRIAL_FOLLOWERS = 200       # Instagram's floor for trial reels on a public professional account
+LATE_HOURS = 24             # a post this far past its time is skipped, never sent
+TURN_ON = "python3 scripts/schedule_reel.py --trials-on --yes"
 
 
 def now():
@@ -105,18 +118,34 @@ def gh(*args):
     return subprocess.run(["gh", *args], capture_output=True, text=True)
 
 
-def download(tag, asset):
-    d = os.path.join("/tmp", "reels")
-    os.makedirs(d, exist_ok=True)
-    r = gh("release", "download", tag, "-R", REPO, "-p", asset, "-D", d, "--clobber")
-    path = os.path.join(d, asset)
-    if r.returncode or not os.path.exists(path):
-        raise RuntimeError(f"could not download {asset} from GitHub: {r.stderr.strip()}")
-    return path
+def release_url(tag, asset):
+    """The public link to a video in this repo's Releases. Instagram fetches the reel from it.
+
+    GitHub answers it with a redirect to a short-lived signed link, and
+    Instagram follows that (tested on Ryan's account 10/27/26). Checked first
+    so a missing video or a private repo gives a plain reason."""
+    q = urllib.parse.quote
+    url = f"https://github.com/{REPO}/releases/download/{q(tag)}/{q(asset)}"
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=60) as r:
+            if r.status == 200:
+                return url
+            code = r.status
+    except urllib.error.HTTPError as e:
+        code = e.code
+    except Exception as e:
+        raise RuntimeError(f"could not reach the video link on GitHub: {e}")
+    raise RuntimeError(f"the video link on GitHub does not open (HTTP {code}). The posts repo must stay public "
+                       "and the video's release must still be there.")
 
 
-def upload_reel(path, caption, trial):
-    params = {"media_type": "REELS", "upload_type": "resumable", "caption": caption}
+def upload_reel(video_url, caption, trial):
+    """Make the reel from its video link, wait for Instagram to process it, publish it. Returns the media id.
+
+    By video_url, the way Meta documents trial_params and the way Ryan's own
+    poster gets real trials. The old resumable upload sent trials to the main
+    feed (Kevin, 10/8/26)."""
+    params = {"media_type": "REELS", "video_url": video_url, "caption": caption}
     if trial:
         # MANUAL: Instagram never moves a trial to the main feed by itself. The
         # winner goes to the main feed as its own separate upload instead.
@@ -126,17 +155,7 @@ def upload_reel(path, caption, trial):
     c = api(f"{IG_USER}/media", params, "POST")
     if not c.get("id"):
         raise RuntimeError(f"Instagram would not start the upload: {err(c)}")
-    size = os.path.getsize(path)
-    req = urllib.request.Request(f"{RUPLOAD}/{c['id']}", data=open(path, "rb").read(), method="POST",
-                                 headers={"Authorization": f"OAuth {TOKEN}", "offset": "0", "file_size": str(size)})
-    try:
-        with urllib.request.urlopen(req, timeout=600) as r:
-            up = json.loads(r.read().decode())
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"the video upload failed: HTTP {e.code} {e.read().decode()[:300]}")
-    if not up.get("success", True):
-        raise RuntimeError(f"the video upload failed: {up}")
-    for _ in range(60):                     # up to ten minutes for Instagram to process it
+    for _ in range(60):                     # up to ten minutes for Instagram to fetch and process it
         time.sleep(10)
         st = api(c["id"], {"fields": "status_code,status"})
         code = st.get("status_code")
@@ -162,16 +181,51 @@ def trial_block(queue):
     for s in open_stories:
         for v in s["versions"]:
             if v.get("trial_missed") and not v.get("trial_missed_ack"):
-                return (f"Instagram put {s['slug']} {v['v']} on your main feed instead of making it a trial, so your "
-                        "account does not have trial reels right now. Every trial is on hold.")
+                return (f"Instagram put {s['slug']} {v['v']} on your main feed instead of trials. Every trial is on "
+                        "hold. Check Settings, Account status in Instagram. Then start a new reel and look for the "
+                        f"Trial switch on the last screen before Share. If you see it, ask Claude to run {TURN_ON}")
     if any(s.get("trials_ok") for s in open_stories):
         return None                         # the agent confirmed the Trial switch is in their Instagram app
     me = api(IG_USER, {"fields": "followers_count"})
     n = me.get("followers_count")
     if isinstance(n, int) and n < TRIAL_FOLLOWERS:
-        return (f"You have {n:,} followers. Instagram gives trial reels to accounts with about {TRIAL_FOLLOWERS:,}. "
-                "Below that it posts a trial straight to your main feed, so every trial is on hold.")
+        return (f"You have {n:,} followers. Instagram gives trial reels to professional accounts with "
+                f"{TRIAL_FOLLOWERS:,} or more. Below that it posts a trial straight to your main feed. Every trial "
+                f"is on hold. If your Instagram app shows the Trial switch anyway, ask Claude to run {TURN_ON}")
     return None
+
+
+def late_cut():
+    """The UTC time a day before now. A post due before it is too late to send."""
+    t = calendar.timegm(time.strptime(now(), "%Y-%m-%dT%H:%M:%S")) - LATE_HOURS * 3600
+    return time.strftime("%Y-%m-%dT%H:%M:%S", time.gmtime(t))
+
+
+def skip_late(queue):
+    """Skip every post more than a day past its time. True when anything changed.
+
+    A hold, a paused timer or a GitHub outage can leave posts waiting for days.
+    Old news all at once looks like spam, and a "trial" from before a hold may
+    already sit on the main feed."""
+    cut, changed = late_cut(), False
+    late = "skipped: its time passed more than a day ago (posting was off or on hold)"
+    for s in queue:
+        if s.get("cancelled"):
+            continue
+        for v in s["versions"]:
+            if not v.get("media_id") and not v.get("failed") and v["trial_at_utc"] < cut:
+                v.update(failed=True, late=True, last_error=late)
+                changed = True
+            if s.get("pick") == "day" and v.get("picked") and not v.get("main_done") and v["main_at_utc"] < cut:
+                v.update(main_done=True, late=True, result=late.replace("its time", "its main-feed time"))
+                cleanup_version(v)
+                changed = True
+        m = s.setdefault("main", {})
+        if s.get("pick") != "day" and not m.get("done") and s["main_at_utc"] < cut:
+            m.update(done=True, late=True, result=late.replace("its time", "its main-feed time"))
+            cleanup(s)
+            changed = True
+    return changed
 
 
 def set_holds(queue, reason):
@@ -353,7 +407,7 @@ def post_trial(story, ver, live):
         return
     print(f"{story['slug']} {ver['v']}: posting as a trial reel")
     try:
-        ver["media_id"] = upload_reel(download(ver["tag"], ver["asset"]), ver["caption"], trial=True)
+        ver["media_id"] = upload_reel(release_url(ver["tag"], ver["asset"]), ver["caption"], trial=True)
         ver["posted_at_utc"] = now()
         print(f"  posted {ver['media_id']}")
         ver["landed_as_trial"] = landed_as_trial(ver["media_id"])
@@ -390,7 +444,7 @@ def post_main(label, ver, live):
         return hit["id"], None
     print(f"{label}: posting to the main feed")
     try:
-        return upload_reel(download(ver["tag"], ver["asset"]), ver["caption"], trial=False), None
+        return upload_reel(release_url(ver["tag"], ver["asset"]), ver["caption"], trial=False), None
     except Exception as e:
         print(f"  FAILED: {e}")
         return None, str(e)[:400]
@@ -438,12 +492,14 @@ def main():
     queue = json.load(open(QUEUE))
     began, handled, tried = time.time(), 0, set()
     block = trial_block(queue)
-    if set_holds(queue, block) | snapshot_day1(queue):
+    if set_holds(queue, block) | snapshot_day1(queue) | skip_late(queue):
         json.dump(queue, open(QUEUE, "w"), indent=1)
     if block:
         print(f"TRIALS ON HOLD: {block}")
     # everything due, one at a time, for up to ~15 minutes (the timer gives each run 30)
     while time.time() - began < 15 * 60:
+        if skip_late(queue):                # a day's judging can pick a main whose time is long gone
+            json.dump(queue, open(QUEUE, "w"), indent=1)
         kind, story, ver = next_job(queue, tried, trials=not block)
         if not kind:
             break
