@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "slug": "prosper-marco",
+  "town": "Prosper",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-prosper-marco-a",
+    "asset": "prosper-marco-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell \ud83d\udc47\n\nProsper just approved a 2 billion dollar Italian village at the Dallas North Tollway and 380.\n\nOn October 27, the Prosper Town Council unanimously approved zoning for The Marco, a $2 billion, 143-acre village at the northeast corner of the Dallas North Tollway and US 380. The plan centers on a lagoon of more than 15 acres with canals big enough for boats.\n\nIt allows up to 4,400 homes and apartments, office buildings up to 14 stories and up to two hotels. It still needs agreements on incentives, impact fees and open space, and the developer says construction could start by the end of 2026. Nearby Star Trail's typical sale over the last 12 months was $925,000.\n\nWould you want to live next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\nRendering: Blackard Companies via FOX 4",
+    "trial_at_utc": "2026-10-30T13:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-prosper-marco-b",
+    "asset": "prosper-marco-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell \ud83d\udc47\n\nYour exit at the Dallas North Tollway and 380 is getting an Italian village with canals you can ride a boat through.\n\nOn October 27, the Prosper Town Council unanimously approved zoning for The Marco, a $2 billion, 143-acre village at the northeast corner of the Dallas North Tollway and US 380. The plan centers on a lagoon of more than 15 acres with canals big enough for boats.\n\nIt allows up to 4,400 homes and apartments, office buildings up to 14 stories and up to two hotels. It still needs agreements on incentives, impact fees and open space, and the developer says construction could start by the end of 2026. Nearby Star Trail's typical sale over the last 12 months was $925,000.\n\nWould you want to live next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\nRendering: Blackard Companies via FOX 4",
+    "trial_at_utc": "2026-10-31T13:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-01T19:00:00",
+  "main": {},
+  "added": "2026-10-29"
+ }
+]
