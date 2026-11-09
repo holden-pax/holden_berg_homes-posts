@@ -62,5 +62,44 @@
   },
   "added": "2026-10-29",
   "files_deleted": true
+ },
+ {
+  "slug": "celina-glendenning-parkway",
+  "town": "Celina",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-celina-glendenning-parkway-a",
+    "asset": "celina-glendenning-parkway-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nCelina residents pushed back on the Glendenning Parkway plan, and the city changed it.\n\nCelina reworked its Glendenning Parkway plan after residents raised concerns about traffic during construction. Before Glendenning work begins, part of County Road 53 will be paved in concrete and connected to Glen Crossing through a concrete extension of Old Log Trail.\n\nMayor Ryan Tubbs said Methodist Celina Medical Center and Celina ISD also wanted Old Log Trail in concrete. New timeline: Old Log Trail and CR 53 in 2027, Glendenning starts 2028 and finishes late 2028 or early 2029.\n\nDid the city get it right?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-10T14:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-celina-glendenning-parkway-b",
+    "asset": "celina-glendenning-parkway-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nGlen Crossing in Celina is getting a second way in and out before construction begins on the Glendenning Parkway.\n\nCelina reworked its Glendenning Parkway plan after residents raised concerns about traffic during construction. Before Glendenning work begins, part of County Road 53 will be paved in concrete and connected to Glen Crossing through a concrete extension of Old Log Trail.\n\nMayor Ryan Tubbs said Methodist Celina Medical Center and Celina ISD also wanted Old Log Trail in concrete. New timeline: Old Log Trail and CR 53 in 2027, Glendenning starts 2028 and finishes late 2028 or early 2029.\n\nDid the city get it right?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-11T14:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-celina-glendenning-parkway-c",
+    "asset": "celina-glendenning-parkway-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nGlendenning Parkway in Celina was supposed to start construction in August.\n\nCelina reworked its Glendenning Parkway plan after residents raised concerns about traffic during construction. Before Glendenning work begins, part of County Road 53 will be paved in concrete and connected to Glen Crossing through a concrete extension of Old Log Trail.\n\nMayor Ryan Tubbs said Methodist Celina Medical Center and Celina ISD also wanted Old Log Trail in concrete. New timeline: Old Log Trail and CR 53 in 2027, Glendenning starts 2028 and finishes late 2028 or early 2029.\n\nDid the city get it right?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-12T14:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-13T19:00:00",
+  "main": {},
+  "added": "2026-11-09"
  }
 ]
