@@ -101,5 +101,44 @@
   "main_at_utc": "2026-11-13T19:00:00",
   "main": {},
   "added": "2026-11-09"
+ },
+ {
+  "slug": "allen-rental-registration",
+  "town": "Allen",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-allen-rental-registration-a",
+    "asset": "allen-rental-registration-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nEvery single family rental home now has to register within the City of Allen. Notices came out in November and the deadline is the end of January.\n\nAllen's new Single-Family Rental Inspection Program, approved October 13, covers houses, townhomes and duplexes. The online portal opened November 1, owners get a first notice in early November and a second in January, and registration is due January 31.\n\nIt's $150 a year, with a $50 late fee and $25 for repeat inspections on unresolved violations. Rentals are 14% of Allen's single-family homes but drew 38% of property maintenance violations in 2025.\n\nFair, or too much?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-10T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-allen-rental-registration-b",
+    "asset": "allen-rental-registration-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nAllen has more than 4,000 rental homes and by January 31st, every one of them has to register with the city. The portal opened November 1st.\n\nAllen's new Single-Family Rental Inspection Program, approved October 13, covers houses, townhomes and duplexes. The online portal opened November 1, owners get a first notice in early November and a second in January, and registration is due January 31.\n\nIt's $150 a year, with a $50 late fee and $25 for repeat inspections on unresolved violations. Rentals are 14% of Allen's single-family homes but drew 38% of property maintenance violations in 2025.\n\nFair, or too much?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-11T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-allen-rental-registration-c",
+    "asset": "allen-rental-registration-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour rental home in Allen needs to register with the city.\n\nAllen's new Single-Family Rental Inspection Program, approved October 13, covers houses, townhomes and duplexes. The online portal opened November 1, owners get a first notice in early November and a second in January, and registration is due January 31.\n\nIt's $150 a year, with a $50 late fee and $25 for repeat inspections on unresolved violations. Rentals are 14% of Allen's single-family homes but drew 38% of property maintenance violations in 2025.\n\nFair, or too much?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-12T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-13T22:00:00",
+  "main": {},
+  "added": "2026-11-09"
  }
 ]
