@@ -179,5 +179,44 @@
   "main_at_utc": "2026-11-14T02:00:00",
   "main": {},
   "added": "2026-11-09"
+ },
+ {
+  "slug": "plano-isd-coit-frankford",
+  "town": "Plano",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-plano-isd-coit-frankford-a",
+    "asset": "plano-isd-coit-frankford-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell \ud83d\udc47\n\nSome of the last undeveloped land in Plano is now about to be sold.\n\nOn October 27, Plano ISD trustees unanimously declared two properties surplus, the first step toward a sale. One is 9.96 undeveloped acres at the northeast corner of Coit Road and Frankford Road, bought in 2015 for nearly $5.21 million. The other is two office suites in the Pebble Creek Professional Building on Coit.\n\nTrustees still have to approve any sale, and the district could hire a broker. Only 3.1% of Plano home sales over the last 12 months were new construction, and the typical Plano home sold for $510,000.\n\nWhat would you want on that corner?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\nPhotos: Community Impact, Wikimedia Commons",
+    "trial_at_utc": "2026-11-10T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-plano-isd-coit-frankford-b",
+    "asset": "plano-isd-coit-frankford-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell \ud83d\udc47\n\nOn October 27th, Plano ISD voted to sell 10 empty acres that they have.\n\nOn October 27, Plano ISD trustees unanimously declared two properties surplus, the first step toward a sale. One is 9.96 undeveloped acres at the northeast corner of Coit Road and Frankford Road, bought in 2015 for nearly $5.21 million. The other is two office suites in the Pebble Creek Professional Building on Coit.\n\nTrustees still have to approve any sale, and the district could hire a broker. Only 3.1% of Plano home sales over the last 12 months were new construction, and the typical Plano home sold for $510,000.\n\nWhat would you want on that corner?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\nPhotos: Community Impact, Wikimedia Commons",
+    "trial_at_utc": "2026-11-11T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-plano-isd-coit-frankford-c",
+    "asset": "plano-isd-coit-frankford-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell \ud83d\udc47\n\nAt the corner of Coit Road and Frankford, Plano ISD just voted to let go of the 10 empty acres that they have there.\n\nOn October 27, Plano ISD trustees unanimously declared two properties surplus, the first step toward a sale. One is 9.96 undeveloped acres at the northeast corner of Coit Road and Frankford Road, bought in 2015 for nearly $5.21 million. The other is two office suites in the Pebble Creek Professional Building on Coit.\n\nTrustees still have to approve any sale, and the district could hire a broker. Only 3.1% of Plano home sales over the last 12 months were new construction, and the typical Plano home sold for $510,000.\n\nWhat would you want on that corner?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\nPhotos: Community Impact, Wikimedia Commons",
+    "trial_at_utc": "2026-11-12T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-14T19:00:00",
+  "main": {},
+  "added": "2026-11-09"
  }
 ]
