@@ -481,5 +481,44 @@
   "main_at_utc": "2026-11-23T02:00:00",
   "main": {},
   "added": "2026-11-10"
+ },
+ {
+  "slug": "frisco-red-lobster",
+  "town": "Frisco",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-frisco-red-lobster-a",
+    "asset": "frisco-red-lobster-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nA tragedy, the Red Lobster at 3056 on Preston Road just closed permanently on November 1st.\n\nThe Red Lobster at 3056 Preston Road in Frisco closed November 1, according to a sign on the door. No replacement has been announced.\n\nThe same address appeared on a 2024 list of locations Red Lobster sought to close during its bankruptcy. Kirkland's Home also announced it's closing its Frisco store. Frisco's typical home sold for $650,000 over the last 12 months.\n\nWhat should go in that building?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-17T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-frisco-red-lobster-b",
+    "asset": "frisco-red-lobster-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nA sign on the door is all Frisco got when Red Lobster in Frisco on Preston Road closed November 1st.\n\nThe Red Lobster at 3056 Preston Road in Frisco closed November 1, according to a sign on the door. No replacement has been announced.\n\nThe same address appeared on a 2024 list of locations Red Lobster sought to close during its bankruptcy. Kirkland's Home also announced it's closing its Frisco store. Frisco's typical home sold for $650,000 over the last 12 months.\n\nWhat should go in that building?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-18T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-frisco-red-lobster-c",
+    "asset": "frisco-red-lobster-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour biscuit run in Frisco just got a lot longer because Red Lobster closed officially November 1st.\n\nThe Red Lobster at 3056 Preston Road in Frisco closed November 1, according to a sign on the door. No replacement has been announced.\n\nThe same address appeared on a 2024 list of locations Red Lobster sought to close during its bankruptcy. Kirkland's Home also announced it's closing its Frisco store. Frisco's typical home sold for $650,000 over the last 12 months.\n\nWhat should go in that building?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-19T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-24T02:00:00",
+  "main": {},
+  "added": "2026-11-10"
  }
 ]
