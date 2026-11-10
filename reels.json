@@ -667,5 +667,44 @@
   "main_at_utc": "2026-11-28T02:00:00",
   "main": {},
   "added": "2026-11-10"
+ },
+ {
+  "slug": "mckinney-medical-center-drive",
+  "town": "McKinney",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-mckinney-medical-center-drive-a",
+    "asset": "mckinney-medical-center-drive-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nMcKinney's $5.2 million project to rebuild Medical Center Drive is about to finish by the end of this year.\n\nMcKinney's $5.2 million reconstruction of Medical Center Drive between Frisco Road and Spur 399 was 86% complete as of November 2, with work running through December 2026. It becomes a continuous four-lane divided road.\n\nNext door, TxDOT's $157 million project widens Spur 399 from four to six lanes and extends it to US 380 south and east of McKinney National Airport. McKinney's typical home sold for $500,000, up 5.0% from a year ago.\n\nWhich McKinney road is next on your list?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-22T17:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-mckinney-medical-center-drive-b",
+    "asset": "mckinney-medical-center-drive-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nMedical Center Drive between Frisco Road and Spur 399 is about to be four lanes the whole way up.\n\nMcKinney's $5.2 million reconstruction of Medical Center Drive between Frisco Road and Spur 399 was 86% complete as of November 2, with work running through December 2026. It becomes a continuous four-lane divided road.\n\nNext door, TxDOT's $157 million project widens Spur 399 from four to six lanes and extends it to US 380 south and east of McKinney National Airport. McKinney's typical home sold for $500,000, up 5.0% from a year ago.\n\nWhich McKinney road is next on your list?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-23T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-mckinney-medical-center-drive-c",
+    "asset": "mckinney-medical-center-drive-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour drive to Medical City McKinney is about to have four lanes with a divide in the middle\n\nMcKinney's $5.2 million reconstruction of Medical Center Drive between Frisco Road and Spur 399 was 86% complete as of November 2, with work running through December 2026. It becomes a continuous four-lane divided road.\n\nNext door, TxDOT's $157 million project widens Spur 399 from four to six lanes and extends it to US 380 south and east of McKinney National Airport. McKinney's typical home sold for $500,000, up 5.0% from a year ago.\n\nWhich McKinney road is next on your list?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-24T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-29T02:00:00",
+  "main": {},
+  "added": "2026-11-10"
  }
 ]
