@@ -350,5 +350,44 @@
   "main_at_utc": "2026-11-15T19:00:00",
   "main": {},
   "added": "2026-11-10"
+ },
+ {
+  "slug": "collin-county-road-bond",
+  "town": "McKinney",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-collin-county-road-bond-a",
+    "asset": "collin-county-road-bond-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nCollin County just said no to $475 million that was going to go to help with the roads and infrastructure.\n\nOn November 3, Collin County voters rejected all four propositions of the county's $817.5 million bond. The biggest, Proposition B, was $475 million for roads, and it failed with 51.67% against.\n\nCommissioner Darrell Hale said that failure would likely stall the Collin County Outer Loop and Dallas North Tollway improvements. Proposition A, $296.5 million for the courthouse and jail, also failed, and the county had first identified about $1.2 billion in needs.\n\nWhich road in Collin County needs it most?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-10T18:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-collin-county-road-bond-b",
+    "asset": "collin-county-road-bond-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nOn November 3rd all four parts of the 817 and a half million dollar bond failed for Collin County.\n\nOn November 3, Collin County voters rejected all four propositions of the county's $817.5 million bond. The biggest, Proposition B, was $475 million for roads, and it failed with 51.67% against.\n\nCommissioner Darrell Hale said that failure would likely stall the Collin County Outer Loop and Dallas North Tollway improvements. Proposition A, $296.5 million for the courthouse and jail, also failed, and the county had first identified about $1.2 billion in needs.\n\nWhich road in Collin County needs it most?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-11T18:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-collin-county-road-bond-c",
+    "asset": "collin-county-road-bond-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour commute on the Dallas North Tollway and the Outer Loop just got a little bit more uncertain after November 3rd in the Collin County vote.\n\nOn November 3, Collin County voters rejected all four propositions of the county's $817.5 million bond. The biggest, Proposition B, was $475 million for roads, and it failed with 51.67% against.\n\nCommissioner Darrell Hale said that failure would likely stall the Collin County Outer Loop and Dallas North Tollway improvements. Proposition A, $296.5 million for the courthouse and jail, also failed, and the county had first identified about $1.2 billion in needs.\n\nWhich road in Collin County needs it most?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-12T18:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-15T22:00:00",
+  "main": {},
+  "added": "2026-11-10"
  }
 ]
