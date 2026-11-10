@@ -706,5 +706,44 @@
   "main_at_utc": "2026-11-29T02:00:00",
   "main": {},
   "added": "2026-11-10"
+ },
+ {
+  "slug": "mckinney-spices-of-india",
+  "town": "McKinney",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-mckinney-spices-of-india-a",
+    "asset": "mckinney-spices-of-india-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nA family grocery store that has been in Oklahoma City for over 35 years is opening its next location in McKinney.\n\nSpices of India confirmed a 2027 opening for a grocery store and food court in McKinney's Plaza at Fort Buckner, the same development where Dave & Buster's opened this year and an EoS Fitness is planned.\n\nIt will carry snacks, produce, dairy and frozen goods, and the food court will serve breakfast, lunch and dinner. The owners have run Spices of India in Oklahoma City for more than 35 years. McKinney's typical sale price is up 5.0% from a year ago.\n\nWhat should open next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-23T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-mckinney-spices-of-india-b",
+    "asset": "mckinney-spices-of-india-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nSpices of India is bringing a grocery store and a full food court to McKinney at Fort Buckner in 2027.\n\nSpices of India confirmed a 2027 opening for a grocery store and food court in McKinney's Plaza at Fort Buckner, the same development where Dave & Buster's opened this year and an EoS Fitness is planned.\n\nIt will carry snacks, produce, dairy and frozen goods, and the food court will serve breakfast, lunch and dinner. The owners have run Spices of India in Oklahoma City for more than 35 years. McKinney's typical sale price is up 5.0% from a year ago.\n\nWhat should open next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-24T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-mckinney-spices-of-india-c",
+    "asset": "mckinney-spices-of-india-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour next Dave and Buster's night in McKinney comes with an Indian grocery store and food court right next door now.\n\nSpices of India confirmed a 2027 opening for a grocery store and food court in McKinney's Plaza at Fort Buckner, the same development where Dave & Buster's opened this year and an EoS Fitness is planned.\n\nIt will carry snacks, produce, dairy and frozen goods, and the food court will serve breakfast, lunch and dinner. The owners have run Spices of India in Oklahoma City for more than 35 years. McKinney's typical sale price is up 5.0% from a year ago.\n\nWhat should open next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-25T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-30T02:00:00",
+  "main": {},
+  "added": "2026-11-10"
  }
 ]
