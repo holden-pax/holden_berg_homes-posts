@@ -389,5 +389,44 @@
   "main_at_utc": "2026-11-15T22:00:00",
   "main": {},
   "added": "2026-11-10"
+ },
+ {
+  "slug": "frisco-collegiate-academy",
+  "town": "Frisco",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-frisco-collegiate-academy-a",
+    "asset": "frisco-collegiate-academy-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nStarting November 11th, Frisco ISD eighth graders can apply to finish their high school at Memorial with both a high school and college degree.\n\nFrisco ISD and Collin College announced Frisco Collegiate Academy, a four-year program at Memorial High School where students earn a diploma and an associate of science degree at the same time. It starts in the 2027-28 school year.\n\nApplications run November 11 to December 11 for current eighth graders enrolled in Frisco ISD, from any attendance zone. Info sessions are November 11 (webinar) and November 17 at Memorial, both at 6 p.m. Seats must be accepted by February 12, 2027.\n\nSend this to a Frisco parent with an eighth grader.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-10T18:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-frisco-collegiate-academy-b",
+    "asset": "frisco-collegiate-academy-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nFrisco ISD just announced a program with Memorial in which their students can graduate with an associate's degree.\n\nFrisco ISD and Collin College announced Frisco Collegiate Academy, a four-year program at Memorial High School where students earn a diploma and an associate of science degree at the same time. It starts in the 2027-28 school year.\n\nApplications run November 11 to December 11 for current eighth graders enrolled in Frisco ISD, from any attendance zone. Info sessions are November 11 (webinar) and November 17 at Memorial, both at 6 p.m. Seats must be accepted by February 12, 2027.\n\nSend this to a Frisco parent with an eighth grader.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-11T18:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-frisco-collegiate-academy-c",
+    "asset": "frisco-collegiate-academy-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nFrisco families get one month, November 11th to December 11th to apply with Memorial High School to allow their kids to get a college degree while in high school.\n\nFrisco ISD and Collin College announced Frisco Collegiate Academy, a four-year program at Memorial High School where students earn a diploma and an associate of science degree at the same time. It starts in the 2027-28 school year.\n\nApplications run November 11 to December 11 for current eighth graders enrolled in Frisco ISD, from any attendance zone. Info sessions are November 11 (webinar) and November 17 at Memorial, both at 6 p.m. Seats must be accepted by February 12, 2027.\n\nSend this to a Frisco parent with an eighth grader.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-12T18:30:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-16T02:00:00",
+  "main": {},
+  "added": "2026-11-10"
  }
 ]
