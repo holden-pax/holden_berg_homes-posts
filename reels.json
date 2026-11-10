@@ -637,5 +637,35 @@
   "main_at_utc": "2026-11-27T02:00:00",
   "main": {},
   "added": "2026-11-10"
+ },
+ {
+  "slug": "prosper-home2suites",
+  "town": "Prosper",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-prosper-home2suites-a",
+    "asset": "prosper-home2suites-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nProsper is getting a Home2 Suites on Coleman Street and each room is set to have a full kitchen.\n\nHome2Suites by Hilton plans to open at 841 S. Coleman St. in Prosper by the end of 2026, a hotel representative confirmed. It's extended-stay, with studio and one-bedroom suites that each have a full kitchen.\n\nAmenities include free hot breakfast, a fitness center and an outdoor pool. Hilton lists it 1.5 miles from downtown Prosper and 4 miles from Universal Kids Resort in Frisco. Prosper's typical home sold for $825,000 over the last 12 months.\n\nWould you put guests there?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-21T17:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-prosper-home2suites-b",
+    "asset": "prosper-home2suites-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour out-of-town guests this holiday season have a new place to stay on Coleman Street in Prosper.\n\nHome2Suites by Hilton plans to open at 841 S. Coleman St. in Prosper by the end of 2026, a hotel representative confirmed. It's extended-stay, with studio and one-bedroom suites that each have a full kitchen.\n\nAmenities include free hot breakfast, a fitness center and an outdoor pool. Hilton lists it 1.5 miles from downtown Prosper and 4 miles from Universal Kids Resort in Frisco. Prosper's typical home sold for $825,000 over the last 12 months.\n\nWould you put guests there?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-11-22T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-11-28T02:00:00",
+  "main": {},
+  "added": "2026-11-10"
  }
 ]
