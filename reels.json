@@ -330,7 +330,14 @@
     "last_error": "Instagram could not process the video: Error: Media upload has failed with error code 2207085",
     "media_id": "18117489053024112",
     "posted_at_utc": "2026-11-10T18:24:11",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 1,
+     "views": 147,
+     "kw": 0,
+     "age_h": 24.7
+    }
    },
    {
     "v": "B",
@@ -372,7 +379,14 @@
     "ending": "moving",
     "media_id": "17994093716862003",
     "posted_at_utc": "2026-11-10T18:25:06",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 90,
+     "kw": 0,
+     "age_h": 24.7
+    }
    },
    {
     "v": "B",
@@ -414,7 +428,14 @@
     "ending": "moving",
     "media_id": "18045788558828070",
     "posted_at_utc": "2026-11-10T18:26:06",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 137,
+     "kw": 0,
+     "age_h": 24.7
+    }
    },
    {
     "v": "B",
