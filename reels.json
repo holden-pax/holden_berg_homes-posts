@@ -257,7 +257,14 @@
     "ending": "moving",
     "media_id": "18032967533880944",
     "posted_at_utc": "2026-11-13T16:35:19",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 131,
+     "kw": 0,
+     "age_h": 24.7
+    }
    },
    {
     "v": "C",
@@ -364,7 +371,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell \ud83d\udc47\n\nThe Sunset Amphitheater is set to finish in early 2027. This is a 20,000 seat venue off of 75 and 121.\n\nThe Sunset Amphitheater near the northeast corner of US 75 and SH 121 in McKinney is 70 to 75 percent built, per Venu on October 30. It seats up to 20,000, could host up to 100 shows a year, and Venu is targeting completion in the first quarter of 2027. No opening date is set yet.\n\nVenu's cost grew from $220 million to about $334 million. On October 21 it closed a $60 million sale-leaseback of the land with Store Capital to finish construction, after McKinney approved an updated incentive agreement on October 5. The typical McKinney home sold for $500,000 over the last 12 months.\n\nWho's buying the first tickets?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\nPhotos: Bisnow, Community Impact. Renderings: Venu",
     "trial_at_utc": "2026-11-14T17:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "17956043931270857",
+    "posted_at_utc": "2026-11-14T17:17:49",
+    "landed_as_trial": true
    },
    {
     "v": "C",
