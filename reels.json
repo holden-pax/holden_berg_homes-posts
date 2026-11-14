@@ -84,6 +84,11 @@
      "views": 119,
      "kw": 0,
      "age_h": 24.5
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 119
     }
    },
    {
@@ -103,6 +108,11 @@
      "views": 109,
      "kw": 0,
      "age_h": 24.1
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 109
     }
    },
    {
@@ -122,6 +132,11 @@
      "views": 80,
      "kw": 0,
      "age_h": 24.4
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 80
     }
    }
   ],
@@ -129,8 +144,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-14T02:00:00",
-  "main": {},
-  "added": "2026-11-09"
+  "main": {
+   "why": "too close; the most of everything",
+   "done": true,
+   "winner": "A",
+   "media_id": "18110182901217575",
+   "posted_at_utc": "2026-11-14T02:32:56",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-09",
+  "files_deleted": true
  },
  {
   "slug": "allen-rental-registration",
