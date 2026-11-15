@@ -345,7 +345,14 @@
     "ending": "moving",
     "media_id": "18002954748033415",
     "posted_at_utc": "2026-11-14T16:19:17",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 107,
+     "kw": 0,
+     "age_h": 24.5
+    }
    }
   ],
   "pick": "story",
@@ -442,7 +449,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nOver 200,000 voters said no on November 3rd and because of that, Collin College's bond was shot down.\n\nOn November 3, Collin County voters rejected Collin College's $600 million bond, 52.5% against to 47.5% for.\n\nThe plan covered eight campus expansions, new campuses in Anna and Royse City, an aviation academy in McKinney, graduate and doctoral space in Frisco and classroom and lab space in Allen. Enrollment grew 11.92% from 2017 to 2024.\n\nWhich campus did you want to see built?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-15T16:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "18128561525302438",
+    "posted_at_utc": "2026-11-15T16:52:33",
+    "landed_as_trial": true
    },
    {
     "v": "C",
