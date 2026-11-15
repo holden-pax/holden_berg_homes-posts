@@ -697,6 +697,11 @@
      "views": 189,
      "kw": 0,
      "age_h": 25.0
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 189
     }
    },
    {
@@ -716,6 +721,11 @@
      "views": 135,
      "kw": 0,
      "age_h": 24.4
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 135
     }
    },
    {
@@ -735,6 +745,11 @@
      "views": 69,
      "kw": 0,
      "age_h": 24.8
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 69
     }
    }
   ],
@@ -742,8 +757,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-15T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "views",
+   "done": true,
+   "winner": "A",
+   "media_id": "18049970471827384",
+   "posted_at_utc": "2026-11-15T02:57:42",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "plano-stars-arena-vote",
