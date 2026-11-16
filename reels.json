@@ -437,7 +437,14 @@
     "ending": "moving",
     "media_id": "17982088103916031",
     "posted_at_utc": "2026-11-15T15:50:52",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 1,
+     "views": 150,
+     "kw": 0,
+     "age_h": 25.0
+    }
    }
   ],
   "pick": "story",
@@ -546,7 +553,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nThree new Celina elementary schools are set to open in 2027 and the map for who goes where is set to be voted on in November.\n\nCelina ISD presented proposed 2027-28 elementary attendance zones at its October 26 board meeting, ahead of three new schools opening in fall 2027: Alma Jo Scott, Ophelia Grumbles and Janet H. Calvert Elementary.\n\nMartin students east of Preston Road would go to Calvert, Lykins and Bothwell zones would be split among Bothwell, Scott and Grumbles, and Vasquez's northern line shifts slightly. The board plans to finalize the lines at its November meeting. Check the district's attendance zone page for your address.\n\nSend this to a Celina neighbor who needs to see the map.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-16T16:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "18190515361409619",
+    "posted_at_utc": "2026-11-16T16:50:28",
+    "landed_as_trial": true
    }
   ],
   "pick": "story",
