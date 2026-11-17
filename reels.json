@@ -531,7 +531,14 @@
     "ending": "moving",
     "media_id": "18133081696697023",
     "posted_at_utc": "2026-11-16T15:15:52",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 8,
+     "views": 1224,
+     "kw": 0,
+     "age_h": 24.8
+    }
    }
   ],
   "pick": "story",
@@ -688,7 +695,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nFrisco ISD just announced a program with Memorial in which their students can graduate with an associate's degree.\n\nFrisco ISD and Collin College announced Frisco Collegiate Academy, a four-year program at Memorial High School where students earn a diploma and an associate of science degree at the same time. It starts in the 2027-28 school year.\n\nApplications run November 11 to December 11 for current eighth graders enrolled in Frisco ISD, from any attendance zone. Info sessions are November 11 (webinar) and November 17 at Memorial, both at 6 p.m. Seats must be accepted by February 12, 2027.\n\nSend this to a Frisco parent with an eighth grader.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-17T16:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "17898385458513559",
+    "posted_at_utc": "2026-11-17T16:05:11",
+    "landed_as_trial": true
    },
    {
     "v": "C",
