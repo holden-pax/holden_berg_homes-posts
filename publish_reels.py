@@ -354,9 +354,7 @@ def rank_key(n):
 
 
 def flopped(v):
-    # Holden, 11/13/26: post by views. A story whose trials got no likes or comments
-    # still sends its most-viewed version to the main feed.
-    return False
+    return v["score"]["comments"] == 0 and v["score"]["likes"] == 0
 
 
 def day_batches(queue):
