@@ -452,6 +452,11 @@
      "views": 175,
      "kw": 0,
      "age_h": 24.5
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 177
     }
    },
    {
@@ -471,6 +476,11 @@
      "views": 127,
      "kw": 0,
      "age_h": 24.5
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 127
     }
    },
    {
@@ -490,6 +500,11 @@
      "views": 150,
      "kw": 0,
      "age_h": 25.0
+    },
+    "score": {
+     "comments": 0,
+     "likes": 1,
+     "views": 150
     }
    }
   ],
@@ -497,8 +512,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-19T02:00:00",
-  "main": {},
-  "added": "2026-11-09"
+  "main": {
+   "why": "views",
+   "done": true,
+   "winner": "A",
+   "media_id": "18030048812865442",
+   "posted_at_utc": "2026-11-19T02:35:59",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-09",
+  "files_deleted": true
  },
  {
   "slug": "collin-college-bond",
