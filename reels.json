@@ -546,6 +546,11 @@
      "views": 147,
      "kw": 0,
      "age_h": 24.7
+    },
+    "score": {
+     "comments": 0,
+     "likes": 1,
+     "views": 147
     }
    },
    {
@@ -565,6 +570,11 @@
      "views": 192,
      "kw": 0,
      "age_h": 25.3
+    },
+    "score": {
+     "comments": 0,
+     "likes": 1,
+     "views": 192
     }
    },
    {
@@ -584,6 +594,11 @@
      "views": 1224,
      "kw": 0,
      "age_h": 24.8
+    },
+    "score": {
+     "comments": 0,
+     "likes": 8,
+     "views": 1234
     }
    }
   ],
@@ -591,8 +606,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-20T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "views",
+   "done": true,
+   "winner": "C",
+   "media_id": "17996316111073963",
+   "posted_at_utc": "2026-11-20T02:20:02",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "celina-isd-rezoning",
