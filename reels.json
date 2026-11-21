@@ -638,6 +638,11 @@
      "views": 90,
      "kw": 0,
      "age_h": 24.7
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 90
     }
    },
    {
@@ -657,6 +662,11 @@
      "views": 106,
      "kw": 0,
      "age_h": 24.4
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 106
     }
    },
    {
@@ -676,6 +686,11 @@
      "views": 113,
      "kw": 0,
      "age_h": 24.4
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 113
     }
    }
   ],
@@ -683,8 +698,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-21T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "too close; the most of everything",
+   "done": true,
+   "winner": "C",
+   "media_id": "18114370892615455",
+   "posted_at_utc": "2026-11-21T08:17:19",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "collin-county-road-bond",
