@@ -730,6 +730,11 @@
      "views": 137,
      "kw": 0,
      "age_h": 24.7
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 137
     }
    },
    {
@@ -749,6 +754,11 @@
      "views": 445,
      "kw": 0,
      "age_h": 25.0
+    },
+    "score": {
+     "comments": 1,
+     "likes": 0,
+     "views": 445
     }
    },
    {
@@ -768,6 +778,11 @@
      "views": 467,
      "kw": 0,
      "age_h": 24.1
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 482
     }
    }
   ],
@@ -775,8 +790,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-22T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "too close; the most of everything",
+   "done": true,
+   "winner": "C",
+   "media_id": "18156665002551688",
+   "posted_at_utc": "2026-11-22T08:51:58",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "frisco-collegiate-academy",
