@@ -1650,5 +1650,44 @@
   "main_at_utc": "2026-12-07T02:00:00",
   "main": {},
   "added": "2026-11-21"
+ },
+ {
+  "slug": "allen-police-hq-move",
+  "town": "Allen",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-allen-police-hq-move-a",
+    "asset": "allen-police-hq-move-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nAllen City Council voted on November 10th to turn the old police station on McDermott Drive into offices.\n\nAllen City Council approved a $227,550 contract on November 10, 2026 to design the remodel of the former police headquarters at 205 W. McDermott Drive, built in 1988, for the city's finance and engineering departments. Plans include 61 workstations and demolishing the former jail.\n\nPolice move into the new $97.1 million, 103,000-square-foot headquarters on Century Parkway, between City Hall and the post office, in March 2027. Voters approved an $83 million bond for it in 2023.\n\nThe typical Allen home sold for $499,000 over the last 12 months.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\n\nPhotos: Community Impact, City of Allen, Allen Police Department, Local Profile",
+    "trial_at_utc": "2026-12-01T17:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-allen-police-hq-move-b",
+    "asset": "allen-police-hq-move-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour next call to Allen Police in 2027 goes to a brand new building because the department moves to Century Parkway in March of 2027.\n\nAllen City Council approved a $227,550 contract on November 10, 2026 to design the remodel of the former police headquarters at 205 W. McDermott Drive, built in 1988, for the city's finance and engineering departments. Plans include 61 workstations and demolishing the former jail.\n\nPolice move into the new $97.1 million, 103,000-square-foot headquarters on Century Parkway, between City Hall and the post office, in March 2027. Voters approved an $83 million bond for it in 2023.\n\nThe typical Allen home sold for $499,000 over the last 12 months.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\n\nPhotos: Community Impact, City of Allen, Allen Police Department, Local Profile",
+    "trial_at_utc": "2026-12-02T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-allen-police-hq-move-c",
+    "asset": "allen-police-hq-move-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\n97.1 million dollars are being spent on Allen's new police headquarters on Century Parkway. Officers are set to move in March.\n\nAllen City Council approved a $227,550 contract on November 10, 2026 to design the remodel of the former police headquarters at 205 W. McDermott Drive, built in 1988, for the city's finance and engineering departments. Plans include 61 workstations and demolishing the former jail.\n\nPolice move into the new $97.1 million, 103,000-square-foot headquarters on Century Parkway, between City Hall and the post office, in March 2027. Voters approved an $83 million bond for it in 2023.\n\nThe typical Allen home sold for $499,000 over the last 12 months.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\n\nPhotos: Community Impact, City of Allen, Allen Police Department, Local Profile",
+    "trial_at_utc": "2026-12-03T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-12-08T02:00:00",
+  "main": {},
+  "added": "2026-11-23"
  }
 ]
