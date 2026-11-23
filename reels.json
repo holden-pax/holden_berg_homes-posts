@@ -1728,5 +1728,44 @@
   "main_at_utc": "2026-12-09T02:00:00",
   "main": {},
   "added": "2026-11-23"
+ },
+ {
+  "slug": "allen-watering-schedule-2027",
+  "town": "Allen",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-allen-watering-schedule-2027-a",
+    "asset": "allen-watering-schedule-2027-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nAllen is changing the watering day for about one of every three homes in January. The first change to the schedule since 2011.\n\nAllen is changing its watering schedule for the first time since 2011. Starting in 2027, April through October watering hours move from 6 p.m.-10 a.m. to 6 p.m.-7 a.m., and about one third of homes get a new primary watering day.\n\nHand-held hoses, soaker hoses and drip zones are exempt, so foundations can be watered any time. The city expects to save about a million gallons a day of peak demand, and says this is the last change because Allen has less than 8% of its land left to develop.\n\nThe city plans to start telling residents about the change in December.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nPhotos: Community Impact, Wikimedia Commons",
+    "trial_at_utc": "2026-12-02T17:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-allen-watering-schedule-2027-b",
+    "asset": "allen-watering-schedule-2027-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour sprinkler schedule in Allen changes in 2027 and for a third of the city, the watering day itself moves.\n\nAllen is changing its watering schedule for the first time since 2011. Starting in 2027, April through October watering hours move from 6 p.m.-10 a.m. to 6 p.m.-7 a.m., and about one third of homes get a new primary watering day.\n\nHand-held hoses, soaker hoses and drip zones are exempt, so foundations can be watered any time. The city expects to save about a million gallons a day of peak demand, and says this is the last change because Allen has less than 8% of its land left to develop.\n\nThe city plans to start telling residents about the change in December.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nPhotos: Community Impact, Wikimedia Commons",
+    "trial_at_utc": "2026-12-03T17:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-allen-watering-schedule-2027-c",
+    "asset": "allen-watering-schedule-2027-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nOne million gallons a day is what Allen expects to save by moving watering days around in 2027.\n\nAllen is changing its watering schedule for the first time since 2011. Starting in 2027, April through October watering hours move from 6 p.m.-10 a.m. to 6 p.m.-7 a.m., and about one third of homes get a new primary watering day.\n\nHand-held hoses, soaker hoses and drip zones are exempt, so foundations can be watered any time. The city expects to save about a million gallons a day of peak demand, and says this is the last change because Allen has less than 8% of its land left to develop.\n\nThe city plans to start telling residents about the change in December.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nPhotos: Community Impact, Wikimedia Commons",
+    "trial_at_utc": "2026-12-04T16:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-12-10T02:00:00",
+  "main": {},
+  "added": "2026-11-23"
  }
 ]
