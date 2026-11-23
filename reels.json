@@ -822,6 +822,11 @@
      "views": 137,
      "kw": 0,
      "age_h": 24.5
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 139
     }
    },
    {
@@ -841,6 +846,11 @@
      "views": 1183,
      "kw": 0,
      "age_h": 24.1
+    },
+    "score": {
+     "comments": 0,
+     "likes": 5,
+     "views": 1191
     }
    },
    {
@@ -860,6 +870,11 @@
      "views": 199,
      "kw": 0,
      "age_h": 25.1
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 201
     }
    }
   ],
@@ -867,8 +882,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-23T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "views",
+   "done": true,
+   "winner": "B",
+   "media_id": "18033886919689863",
+   "posted_at_utc": "2026-11-23T03:09:28",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "allen-green-elementary",
