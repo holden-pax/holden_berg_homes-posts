@@ -1767,5 +1767,44 @@
   "main_at_utc": "2026-12-10T02:00:00",
   "main": {},
   "added": "2026-11-23"
+ },
+ {
+  "slug": "celina-first-target",
+  "town": "Celina",
+  "versions": [
+   {
+    "v": "A",
+    "tag": "reel-celina-first-target-a",
+    "asset": "celina-first-target-A.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nCelina's first Target is part of a $90 million deal, the city approved on November 10th, at Preston Road in the Outer Loop.\n\nCelina City Council approved an incentive agreement on November 10, 2026 for Celina Towne Crossing, a $90 million, 359,000-square-foot center on about 45 acres at the northeast corner of Preston Road and the Collin County Outer Loop, anchored by a 145,000-square-foot Target.\n\nThe city waives about $7.5 million in building and impact fees. The Target and three junior anchors are due by June 1, 2029, and the restaurants and strip centers by December 1, 2029. Target has not announced the store.\n\nThe typical Celina home sold for $510,000 over the last 12 months, down 7.8%.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\n\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-12-04T17:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "B",
+    "tag": "reel-celina-first-target-b",
+    "asset": "celina-first-target-B.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nJune 1st, 2029 is the deadline for Celina's first Target to open. Under an incentive deal, the city just approved.\n\nCelina City Council approved an incentive agreement on November 10, 2026 for Celina Towne Crossing, a $90 million, 359,000-square-foot center on about 45 acres at the northeast corner of Preston Road and the Collin County Outer Loop, anchored by a 145,000-square-foot Target.\n\nThe city waives about $7.5 million in building and impact fees. The Target and three junior anchors are due by June 1, 2029, and the restaurants and strip centers by December 1, 2029. Target has not announced the store.\n\nThe typical Celina home sold for $510,000 over the last 12 months, down 7.8%.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\n\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-12-05T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   },
+   {
+    "v": "C",
+    "tag": "reel-celina-first-target-c",
+    "asset": "celina-first-target-C.mp4",
+    "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour Target run from Celina won't always mean driving to Prosper, because the city just approved a deal of its own.\n\nCelina City Council approved an incentive agreement on November 10, 2026 for Celina Towne Crossing, a $90 million, 359,000-square-foot center on about 45 acres at the northeast corner of Preston Road and the Collin County Outer Loop, anchored by a 145,000-square-foot Target.\n\nThe city waives about $7.5 million in building and impact fees. The Target and three junior anchors are due by June 1, 2029, and the restaurants and strip centers by December 1, 2029. Target has not announced the store.\n\nThe typical Celina home sold for $510,000 over the last 12 months, down 7.8%.\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data from NTREIS, deemed reliable but not guaranteed.\n\nPhotos: Wikimedia Commons",
+    "trial_at_utc": "2026-12-06T15:00:00",
+    "keyword": "MOVING",
+    "ending": "moving"
+   }
+  ],
+  "pick": "story",
+  "keyword": "MOVING",
+  "trials_ok": true,
+  "main_at_utc": "2026-12-11T02:00:00",
+  "main": {},
+  "added": "2026-11-23"
  }
 ]
