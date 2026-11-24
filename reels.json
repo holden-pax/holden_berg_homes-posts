@@ -1244,7 +1244,14 @@
     "ending": "moving",
     "media_id": "18197714323400273",
     "posted_at_utc": "2026-11-22T17:09:47",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 4,
+     "views": 1117,
+     "kw": 0,
+     "age_h": 31.2
+    }
    }
   ],
   "pick": "story",
@@ -1287,7 +1294,14 @@
     "ending": "moving",
     "media_id": "18129318100893192",
     "posted_at_utc": "2026-11-22T17:10:49",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 7,
+     "kw": 0,
+     "age_h": 31.2
+    }
    }
   ],
   "pick": "story",
@@ -1311,7 +1325,14 @@
     "ending": "moving",
     "media_id": "18170435335476817",
     "posted_at_utc": "2026-11-22T17:11:50",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 145,
+     "kw": 0,
+     "age_h": 31.2
+    }
    },
    {
     "v": "B",
@@ -1320,7 +1341,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nMedical Center Drive between Frisco Road and Spur 399 is about to be four lanes the whole way up.\n\nMcKinney's $5.2 million reconstruction of Medical Center Drive between Frisco Road and Spur 399 was 86% complete as of November 2, with work running through December 2026. It becomes a continuous four-lane divided road.\n\nNext door, TxDOT's $157 million project widens Spur 399 from four to six lanes and extends it to US 380 south and east of McKinney National Airport. McKinney's typical home sold for $500,000, up 5.0% from a year ago.\n\nWhich McKinney road is next on your list?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-23T15:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "18121574018046338",
+    "posted_at_utc": "2026-11-24T00:23:52",
+    "landed_as_trial": true
    },
    {
     "v": "C",
@@ -1350,7 +1374,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nA family grocery store that has been in Oklahoma City for over 35 years is opening its next location in McKinney.\n\nSpices of India confirmed a 2027 opening for a grocery store and food court in McKinney's Plaza at Fort Buckner, the same development where Dave & Buster's opened this year and an EoS Fitness is planned.\n\nIt will carry snacks, produce, dairy and frozen goods, and the food court will serve breakfast, lunch and dinner. The owners have run Spices of India in Oklahoma City for more than 35 years. McKinney's typical sale price is up 5.0% from a year ago.\n\nWhat should open next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-23T16:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "18136815166745116",
+    "posted_at_utc": "2026-11-24T00:24:54",
+    "landed_as_trial": true
    },
    {
     "v": "B",
@@ -1389,7 +1416,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nFrisco is about to put $20 million into Legacy Drive between Lebanon Road and Stonebrook Parkway.\n\nFrisco plans a $20 million widening and rebuild of Legacy Drive from Lebanon Road to Stonebrook Parkway, and Stonebrook from Legacy to 4th Army Drive. It's in design, with bids expected later this year and work running late 2026 to mid-2028.\n\nAlso coming: Warren Parkway ($4.2 million, bids early 2027) and John Hickman Parkway ($7.5 million, bids mid-2027). Lebanon Road's $23 million widening is underway through late 2027. Frisco's typical home sold for $650,000 over the last 12 months.\n\nWhich Frisco road needs it most?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-23T17:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "18124629868738198",
+    "posted_at_utc": "2026-11-24T00:25:58",
+    "landed_as_trial": true
    },
    {
     "v": "B",
