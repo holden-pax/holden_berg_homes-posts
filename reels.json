@@ -1409,7 +1409,14 @@
     "ending": "moving",
     "media_id": "18190238539418020",
     "posted_at_utc": "2026-11-24T20:54:10",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 133,
+     "kw": 0,
+     "age_h": 26.4
+    }
    }
   ],
   "pick": "story",
@@ -1452,7 +1459,14 @@
     "ending": "moving",
     "media_id": "18112023854245002",
     "posted_at_utc": "2026-11-24T20:54:55",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 198,
+     "kw": 0,
+     "age_h": 26.4
+    }
    },
    {
     "v": "C",
@@ -1461,7 +1475,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour next Dave and Buster's night in McKinney comes with an Indian grocery store and food court right next door now.\n\nSpices of India confirmed a 2027 opening for a grocery store and food court in McKinney's Plaza at Fort Buckner, the same development where Dave & Buster's opened this year and an EoS Fitness is planned.\n\nIt will carry snacks, produce, dairy and frozen goods, and the food court will serve breakfast, lunch and dinner. The owners have run Spices of India in Oklahoma City for more than 35 years. McKinney's typical sale price is up 5.0% from a year ago.\n\nWhat should open next to it?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-25T15:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "17919375126517217",
+    "posted_at_utc": "2026-11-25T23:20:16",
+    "landed_as_trial": true
    }
   ],
   "pick": "story",
@@ -1504,7 +1521,14 @@
     "ending": "moving",
     "media_id": "18104373077544387",
     "posted_at_utc": "2026-11-24T20:56:49",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 0,
+     "kw": 0,
+     "age_h": 26.4
+    }
    },
    {
     "v": "C",
@@ -1513,7 +1537,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nYour drive between Legacy and Stonebrook is about to get torn up and rebuilt and it's gonna start by the end of this year.\n\nFrisco plans a $20 million widening and rebuild of Legacy Drive from Lebanon Road to Stonebrook Parkway, and Stonebrook from Legacy to 4th Army Drive. It's in design, with bids expected later this year and work running late 2026 to mid-2028.\n\nAlso coming: Warren Parkway ($4.2 million, bids early 2027) and John Hickman Parkway ($7.5 million, bids mid-2027). Lebanon Road's $23 million widening is underway through late 2027. Frisco's typical home sold for $650,000 over the last 12 months.\n\nWhich Frisco road needs it most?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-25T16:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "17896997688434613",
+    "posted_at_utc": "2026-11-25T23:21:17",
+    "landed_as_trial": true
    }
   ],
   "pick": "story",
@@ -1534,7 +1561,10 @@
     "caption": "Comment the word \"MOVING\" on this post and I'll send you a calculator that shows what you'd actually walk away with when you sell, after every fee and payoff \ud83d\udc47\n\nThe $18 million pipe job on Custer Road in south Plano is set to be complete by the end of November.\n\nThe North Texas Municipal Water District's $18 million project replacing a 1975 30-inch water main with a 36-inch line along Custer Road in south Plano is 99% installed. Plano's engineering director expects the pipe done by the end of November, with repaving finished in January 2027.\n\nRemoving the old line will need more traffic phases on Custer, and a later phase closes Carmel Drive between Custer and Delmonte Circle. Work started in February 2025.\n\nHow has your drive on Custer been?\n\nHolden Berg, Pax Realty - Holden Berg Homes\nCall or text 260-570-5151\n\nSales data: NTREIS MLS via the Pax Realty market report, last 12 months.\nPhotos: Wikimedia Commons",
     "trial_at_utc": "2026-11-25T17:00:00",
     "keyword": "MOVING",
-    "ending": "moving"
+    "ending": "moving",
+    "media_id": "18192611059413785",
+    "posted_at_utc": "2026-11-25T23:22:09",
+    "landed_as_trial": true
    },
    {
     "v": "B",
