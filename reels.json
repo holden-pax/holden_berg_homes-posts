@@ -1282,6 +1282,11 @@
      "views": 322,
      "kw": 0,
      "age_h": 26.8
+    },
+    "score": {
+     "comments": 0,
+     "likes": 1,
+     "views": 323
     }
    },
    {
@@ -1301,6 +1306,11 @@
      "views": 8,
      "kw": 0,
      "age_h": 24.9
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 8
     }
    },
    {
@@ -1320,6 +1330,11 @@
      "views": 1117,
      "kw": 0,
      "age_h": 31.2
+    },
+    "score": {
+     "comments": 0,
+     "likes": 4,
+     "views": 1121
     }
    }
   ],
@@ -1327,8 +1342,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-27T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "views",
+   "done": true,
+   "winner": "C",
+   "media_id": "18132043903870431",
+   "posted_at_utc": "2026-11-27T09:07:09",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "prosper-home2suites",
