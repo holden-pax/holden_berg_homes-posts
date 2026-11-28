@@ -1374,6 +1374,11 @@
      "views": 117,
      "kw": 0,
      "age_h": 24.8
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 117
     }
    },
    {
@@ -1393,6 +1398,11 @@
      "views": 7,
      "kw": 0,
      "age_h": 31.2
+    },
+    "score": {
+     "comments": 0,
+     "likes": 0,
+     "views": 7
     }
    }
   ],
@@ -1400,8 +1410,16 @@
   "keyword": "MOVING",
   "trials_ok": true,
   "main_at_utc": "2026-11-28T02:00:00",
-  "main": {},
-  "added": "2026-11-10"
+  "main": {
+   "why": "views",
+   "done": true,
+   "winner": "A",
+   "media_id": "18647668360024506",
+   "posted_at_utc": "2026-11-28T10:26:21",
+   "result": "posted to the main feed"
+  },
+  "added": "2026-11-10",
+  "files_deleted": true
  },
  {
   "slug": "mckinney-medical-center-drive",
