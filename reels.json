@@ -1686,7 +1686,14 @@
     "ending": "moving",
     "media_id": "18612585928064564",
     "posted_at_utc": "2026-11-27T00:35:44",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 125,
+     "kw": 0,
+     "age_h": 25.4
+    }
    },
    {
     "v": "B",
@@ -1731,7 +1738,14 @@
     "ending": "moving",
     "media_id": "17876791896639580",
     "posted_at_utc": "2026-11-27T00:36:45",
-    "landed_as_trial": true
+    "landed_as_trial": true,
+    "day1": {
+     "comments": 0,
+     "likes": 0,
+     "views": 179,
+     "kw": 0,
+     "age_h": 25.4
+    }
    },
    {
     "v": "B",
